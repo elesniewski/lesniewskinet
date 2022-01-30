@@ -1,4 +1,3 @@
-<!--
 **lesniewskinet/lesniewskinet** is a :sparkles: _special_ :sparkles: repository because its 'README.md' {this file} appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - :mailbox: How to reach me ...
 - :smile: Pronouns: ...
 - :zap: Fun fact: ...
--->
